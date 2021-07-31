@@ -29,10 +29,15 @@
 
 <br />
 
-### Some fancy stats 😎:
+### Some fancy stats 😎 :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealAstoo&theme=dark&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealAstoo)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealAstoo&theme=dark&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true&count_private=true" />
+</a>
+
 
 
 [twitter]: https://twitter.com/Regroop_
