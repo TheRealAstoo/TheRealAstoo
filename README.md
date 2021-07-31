@@ -32,10 +32,10 @@
 ### Some fancy stats 😎:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" display="inline-block" margin-top="1rem" src="https://github-readme-stats.vercel.app/api?username=TheRealAstoo&theme=dark&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheRealAstoo&theme=dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" display="inline-block" margin-top="1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealAstoo&theme=dark&show_icons=true&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealAstoo&theme=dark&show_icons=true&count_private=true" />
 </a>
 
 
